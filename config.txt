@@ -1,0 +1,17 @@
+#IP of the remote server 
+server=5.196.26.143
+.   
+#User 
+user=starsky
+.    
+#Personalized name of the upload folder 
+upload=upload
+.    
+#Personalized name of the download folder (or the path) 
+download=download
+.    
+#Personalize the color of the script: 
+colour=Aqua
+.    
+#Personalize the color when download is successful: 
+colors=Green
