@@ -1,8 +1,8 @@
 #IP of the remote server 
-server=5.196.26.143
+server=X.XXX.XX.XX
 .   
 #User 
-user=starsky
+user=IMASUPERUSER
 .    
 #Personalized name of the upload folder 
 upload=upload
