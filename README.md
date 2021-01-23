@@ -1,2 +1,2 @@
 # SSH-Manager
-Make your SSH login easy
+Make your SSH login easier!
