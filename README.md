@@ -66,9 +66,13 @@ The main menu is composed in 7 options:
 </p>
 
 1. The first one is the quickest, it will open you another prompt and will ask for your password for the SSH connection ( it will use your configs settings)
-2. This one is a bit more complicated, first, it will create a SSH Key, then it will try to move it (using SSHKeyMove.exe) and will request more permission because the public * key is in a restricted zone and will be moved in the folder SSHPK for ease reasons. Then it will make a connection at the IP and with the user that you putted in config.txt, the public key will be moved to your home. And that's it!
+2. This one is a bit more complicated, first, it will create a SSH Key (using PortableGit) , then it will try to move it (using SSHKeyMove.exe) and will request more permission because the public key is in a restricted zone and will be moved in the folder SSHPK for ease reasons. Then it will make a connection at the IP and with the user that you putted in config.txt, the public key will be moved to your home. And that's it!
 3. This one is pretty understandable, it will copy your folder upload (or sthg else if u edited the name) and send it to your home, you will juste have to connect by typing your password and that's all!
 4. This one will use fart.exe, you just have to put the word that you want to change ( be carefull if it have multiple time the same word!) and then put the new one, press enter, and you're fine!
 5. It will use refresh.exe because an exe can't kill hisself and restart at the same time x)
 6. I suppose that you can understand.
 7. I supose too
+
+## External ressources:
+
+Fart.exe http://fart-it.sourceforge.net/
