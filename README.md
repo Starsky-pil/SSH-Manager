@@ -2,7 +2,7 @@
 
 <img align=center alt="GitHub all releases" src="https://img.shields.io/github/downloads/Starsky-pil/SSH-Manager/total"> <img align=center alt="GitHub top language" src="https://img.shields.io/github/languages/top/Starsky-pil/SSH-Manager"> <img align=center alt="GitHub issues" src="https://img.shields.io/github/issues/Starsky-pil/SSH-Manager">
 
-# Table of Contents  
+## Table of Contents  
 * [First step](#First-step)  
 * [Config.txt](#configtxt)  
 * [Colors](#Colors)  
@@ -11,11 +11,11 @@
     
 <a name="headers"/>
 
-# First step
+### First step
 
 First, when you succesfully downloaded the manager, you will basically launch it. After that you launched it, it will create 4 folders (download, upload, SSHPK and PortableGit) and one config.txt, it will extract fart.exe, refrersh.exe and SSHKeyMove.exe. All of those things will be explained! 
 
-## Config.txt
+### Config.txt
 
 As I said before, you will have a config.txt, this file will be very inportant because this is where all your configs will be stored ( username for the SSH login, the remote IP, if you want to personalize the name of upload and download folders and if you want to personalize the color of your text)
 ```
@@ -39,7 +39,7 @@ colors=Green
 ```
 :warning: *the most important thing is that you only have to change words after the =* :warning:
 
-## Colors
+### Colors
 
 List of all colors
 ----------- |
@@ -59,7 +59,7 @@ Purple
 Light Green 
 Light White
 
-## The main menu
+### The main menu
 
 The main menu is composed in 7 options:
 <p align="center">
@@ -74,7 +74,7 @@ The main menu is composed in 7 options:
 6. Reset the config.txt to the default version
 7. Exit the program
 
-## External ressources:
+### External ressources:
 
 <p>Fart.exe: <a href="http://fart-it.sourceforge.net/">http://fart-it.sourceforge.net/</a><br>
 PortableGit: <a href="https://github.com/git-for-windows/git/releases/tag/v2.30.0.windows.2">https://github.com/git-for-windows/git/releases/tag/v2.30.0.windows.2</a></p>
