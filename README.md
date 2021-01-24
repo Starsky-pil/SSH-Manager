@@ -51,8 +51,9 @@ Light White
 # The main menu
 
 The main menu is composed in 7 options:
-
-![alt text](https://cdn.discordapp.com/attachments/669629495866556436/802644044462555166/mainpanel.png)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/669629495866556436/802644044462555166/mainpanel.png" width="256" title="SSH Main">
+</p>
 
 1. The first one is the quickest, it will open you another prompt and will ask for your password for the SSH connection ( it will use your configs settings)
 2. This one is a bit more complicated, first, it will create a SSH Key, then it will try to move it (using SSHKeyMove.exe) and will request more permission because the public key is in a restricted zone and will be moved in the folder SSHPK for ease reasons. Then it will make a connection at the IP and with the user that you putted in config.txt, the public key will be moved to your home. And that's it!
