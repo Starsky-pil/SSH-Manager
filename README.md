@@ -14,7 +14,7 @@
 
 First, when you succesfully downloaded the manager, you will basically launch it. After that you launched it, it will create 4 folders (download, upload, SSHPK and PortableGit) and one config.txt, it will extract fart.exe, refrersh.exe and SSHKeyMove.exe. All of those things will be explained! 
 
-# Config.txt
+## Config.txt
 
 As I said before, you will have a config.txt, this file will be very inportant because this is where all your configs will be stored ( username for the SSH login, the remote IP, if you want to personalize the name of upload and download folders and if you want to personalize the color of your text)
 ```
@@ -38,7 +38,7 @@ colors=Green
 ```
 :warning: *the most important thing is that you only have to change words after the =* :warning:
 
-# Colors
+## Colors
 
 List of all colors
 ----------- |
@@ -58,7 +58,7 @@ Purple
 Light Green 
 Light White
 
-# The main menu
+## The main menu
 
 The main menu is composed in 7 options:
 <p align="center">
