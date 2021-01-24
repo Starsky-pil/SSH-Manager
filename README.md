@@ -2,7 +2,7 @@
 
 <img align=center alt="GitHub all releases" src="https://img.shields.io/github/downloads/Starsky-pil/SSH-Manager/total"> <img align=center alt="GitHub top language" src="https://img.shields.io/github/languages/top/Starsky-pil/SSH-Manager"> <img align=center alt="GitHub issues" src="https://img.shields.io/github/issues/Starsky-pil/SSH-Manager"> <img align=center alt="Discord" src="https://img.shields.io/discord/802937225473818635">
 
-Join the discord official: <a href="https://discord.gg/uc2ccdvRwX">https://discord.gg/uc2ccdvRwX</a>
+Join the discord official: <a href="https://discord.gg/uc2ccdvRwX">https://discord.gg/uc2ccdvRwX</a><br>
 You can DM me on discord at: Старски#6178
 
 ## Table of Contents  
