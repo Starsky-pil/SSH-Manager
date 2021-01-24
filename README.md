@@ -2,11 +2,11 @@
 
 
 # Table of Contents  
-[First step](#First-step)  
-[Config.txt](#Config.txt)  
-[Colors](#Colors)  
-[The main menu](#The-main-menu)  
-...snip...    
+[* First step](#First-step)  
+[* Config.txt](#Config.txt)  
+[* Colors](#Colors)  
+[* The main menu](#The-main-menu)  
+    
 <a name="headers"/>
 
 # First step
