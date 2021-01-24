@@ -13,7 +13,7 @@
 
 ### First step
 
-First, when you succesfully downloaded the manager, you will basically launch it. After that you launched it, it will create 4 folders (download, upload, SSHPK and PortableGit) and one config.txt, it will extract fart.exe, refrersh.exe and SSHKeyMove.exe. All of those things will be explained! 
+First, when you succesfully downloaded the manager, you will basically launch it. After that you launched it, it will create 4 folders (download, upload, SSHPK and PortableGit) and one config.txt, it will extract fart.exe, refrersh.exe and SSHKeyMove.exe. If it's your first time (or you moved the manager) it will extract PortableGit by launching the PortableGit.exe (who is a SFX (self extracting)). All of those things will be explained! 
 
 ### Config.txt
 
@@ -78,3 +78,8 @@ The main menu is composed in 7 options:
 
 <p>Fart.exe: <a href="http://fart-it.sourceforge.net/">http://fart-it.sourceforge.net/</a><br>
 PortableGit: <a href="https://github.com/git-for-windows/git/releases/tag/v2.30.0.windows.2">https://github.com/git-for-windows/git/releases/tag/v2.30.0.windows.2</a></p>
+
+# FAQ (Frequently Asked Questions
+
+#### Why is the first starting so long?
+Because the SFX is a bit long due to it's size.
