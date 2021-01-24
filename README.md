@@ -8,6 +8,7 @@
 * [Colors](#Colors)  
 * [The main menu](#The-main-menu)  
 * [External Ressources](#External-ressources)  
+* [Frequently Asked Questions](#Frequently-Asked-Questions)  
     
 <a name="headers"/>
 
