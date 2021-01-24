@@ -4,7 +4,7 @@
 
 # Table of Contents  
 * [First step](#First-step)  
-* [Config.txt](#Config.txt)  
+* [Config.txt](#configtxt)  
 * [Colors](#Colors)  
 * [The main menu](#The-main-menu)  
     
