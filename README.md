@@ -76,3 +76,4 @@ The main menu is composed in 7 options:
 ## External ressources:
 
 Fart.exe http://fart-it.sourceforge.net/
+PortableGit   https://github.com/git-for-windows/git/releases/tag/v2.30.0.windows.2
