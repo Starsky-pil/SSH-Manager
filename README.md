@@ -52,7 +52,7 @@ Light White
 
 The main menu is composed in 7 options:
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/669629495866556436/802644044462555166/mainpanel.png" width="256" title="SSH Main">
+  <img src="https://cdn.discordapp.com/attachments/669629495866556436/802644044462555166/mainpanel.png" width="356" title="SSH Main">
 </p>
 
 1. The first one is the quickest, it will open you another prompt and will ask for your password for the SSH connection ( it will use your configs settings)
