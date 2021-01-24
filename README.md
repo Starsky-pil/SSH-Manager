@@ -71,8 +71,8 @@ The main menu is composed in 7 options:
 3. This one is pretty understandable, it will copy your folder upload (or something else if you edited the name) and send it to your home, you will juste have to connect by typing your password and that's all!
 4. This one will use fart.exe, you just have to put the word that you want to change ( be carefull if it have multiple time the same word!) and then put the new one, press enter, and you're fine!
 5. It will use refresh.exe because an exe can't kill hisself and restart at the same time x)
-6. I suppose that you can understand.
-7. I supose too
+6. Reset the config.txt to the default version
+7. Exit the program
 
 ## External ressources:
 
