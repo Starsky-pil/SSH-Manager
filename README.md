@@ -1,11 +1,12 @@
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Starsky-pil/SSH-Manager/total">
+<h1 align=center > SSH Manager </h1>
 
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Starsky-pil/SSH-Manager/total"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Starsky-pil/SSH-Manager"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/Starsky-pil/SSH-Manager">
 
 # Table of Contents  
-[* First step](#First-step)  
-[* Config.txt](#Config.txt)  
-[* Colors](#Colors)  
-[* The main menu](#The-main-menu)  
+* [First step](#First-step)  
+* [Config.txt](#Config.txt)  
+* [Colors](#Colors)  
+* [The main menu](#The-main-menu)  
     
 <a name="headers"/>
 
@@ -38,6 +39,7 @@ colors=Green
 :warning: *the most important thing is that you only have to change words after the =* :warning:
 
 # Colors
+
 List of all colors
 ----------- |
 Blue                  
