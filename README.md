@@ -1,11 +1,19 @@
-# SSH-Manager
-Make your SSH login easier!
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Starsky-pil/SSH-Manager/total">
 
-# The downloading. . .
+
+# Table of Contents  
+[First step](#First-step)  
+[Config.txt](#Config.txt)  
+[Colors](#Colors)  
+[The main menu](#The-main-menu)  
+...snip...    
+<a name="headers"/>
+
+# First step
 
 First, when you succesfully downloaded the manager, you will basically launch it. After that you launched it, it will create 4 folders (download, upload, SSHPK and PortableGit) and one config.txt, it will extract fart.exe, refrersh.exe and SSHKeyMove.exe. All of those things will be explained! 
 
-# Let's see how does it work!
+# Config.txt
 
 As I said before, you will have a config.txt, this file will be very inportant because this is where all your configs will be stored ( username for the SSH login, the remote IP, if you want to personalize the name of upload and download folders and if you want to personalize the color of your text)
 ```
